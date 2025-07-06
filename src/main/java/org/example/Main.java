@@ -3,6 +3,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 //        System.out.println(sumNumber(5, 5));
+        Person p = new Person();
+        System.out.println(p.getFullInfo());
         System.out.println(intNumber(0));
     }
 
