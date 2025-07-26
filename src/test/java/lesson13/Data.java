@@ -10,4 +10,6 @@ public class Data {
     public String labelTernCard = "Срок действия";
     public String labelCvcCard = "CVC";
     public String labelNameCard = "Имя держателя (как на карте)";
+
+    public String labelNameCardPay = "Имя и фамилия на карте";
 }
